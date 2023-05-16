@@ -1,6 +1,6 @@
 ### Hi there 👋, Sardor Uchqunov
 #### I am a man who is fan of **tech**
-![I am a man who is fan of **tech**](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a man who is fan of **tech**](https://as1.ftcdn.net/v2/jpg/03/04/68/52/1000_F_304685223_ttVGVAkC5JlfgEOTO8KYbN4tjnRqM715.jpg)
 
 My name is Sardor and I'm form Uzbekistan. I have learnt some of programming and have been doing practices since last 5 month. I have  learnt English throughout my journey in order to enhance my skills. I'm on my way of learning Data science in order to find a job on Artificial Intelligence.
 
