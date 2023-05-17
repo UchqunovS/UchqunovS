@@ -17,8 +17,4 @@ Skills: HTML / CSS/ MATH/ JS / PYTHON/ MATH/ C++/KALI
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/UchqunovS)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UchqunovS)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=UchqunovS&show_icons=true)  
-
 ![Profile views](https://gpvc.arturio.dev/UchqunovS)  
